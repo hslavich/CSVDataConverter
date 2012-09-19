@@ -12,7 +12,7 @@
          bootstrap="vendor/autoload.php">
          
     <testsuites>
-        <testsuite name="Full Composer Test Suite">
+        <testsuite name="Test Suite">
             <directory>./test/CSVDataConverter/</directory>
         </testsuite>
     </testsuites>
